@@ -6,8 +6,6 @@ The dataset being used is: [Human Activity Recognition Using Smartphones](http:/
 
 The files I created are below.
 
-### My File
-
 `CodeBook.md` - Describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
 `run_analysis.R` - R script that can be execute to run the analysis out-lined for the course project
