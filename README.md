@@ -3,6 +3,7 @@ Getting and Cleaning Data
 This repo is for the "Getting and Cleaning Data" Cousera course.
 
 The dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 The files I created are below.
 
 ### My File
