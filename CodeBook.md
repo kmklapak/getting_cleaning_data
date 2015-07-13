@@ -87,6 +87,8 @@ There are 5 parts:
 * Require ```dplyr```  and ```tidyr``` and ```reshape2``` libraries.
 * Load both test and train data
 * Load the features and activity labels.
+* Create test_data and train_data data frames.
+* Merge into a single data set.
 * Extract the mean and standard deviation column names and data.
-* Process the data. There are two parts processing test and train data respectively.
-* Merge data set.
+* Process the data
+
